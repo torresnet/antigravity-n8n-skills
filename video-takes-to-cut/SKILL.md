@@ -1,6 +1,6 @@
 ---
 name: video-takes-to-cut
-description: Transforma uma pasta de takes de vídeo (sem áudio, ex. linha de produção) em um único vídeo curto pronto, no aspect ratio e duração pedidos. Use SEMPRE que o usuário pedir para montar/gerar um vídeo a partir de uma pasta de takes/gravações, com frases como "faça um vídeo de X segundos com os takes da pasta Y", "monta um vídeo 9:16 com esses takes", "corta os melhores momentos dessa pasta de vídeos", mesmo sem a palavra "skill". Cobre apenas vídeo sem trilha de fala relevante (scoring é 100% visual: nitidez, movimento, estabilidade, exposição) — se os takes tiverem fala/narração importante, avise o usuário que este pipeline não considera áudio.
+description: "Transforma uma pasta de takes de vídeo (sem áudio, ex. linha de produção) em um único vídeo curto pronto, no aspect ratio e duração pedidos. Use SEMPRE que o usuário pedir para montar/gerar um vídeo a partir de uma pasta de takes/gravações, com frases como 'faça um vídeo de X segundos com os takes da pasta Y', 'monta um vídeo 9:16 com esses takes', 'corta os melhores momentos dessa pasta de vídeos', mesmo sem a palavra 'skill'. Cobre apenas vídeo sem trilha de fala relevante (scoring é 100% visual: nitidez, movimento, estabilidade, exposição) — se os takes tiverem fala/narração importante, avise o usuário que este pipeline não considera áudio."
 ---
 
 # video-takes-to-cut
